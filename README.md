@@ -1,6 +1,9 @@
 libertyautomator
 ================
 
+
+I automated the libertarian job search process. Running this script will make a csv file from the jobs posted on libertyguide.com and will send you emails notifications for new jobs. To use, simply put your email information as indicated in the file and run it ('ruby libertyautomator.rb' in the terminal. Make sure to be in the containing folder.) Feel free to alter, but be a little careful - you're dealing with server requests and sending emails. Enjoy!  (I'm also looking for a job, so if you think I'd be a good fit for your organization, shoot me an email at katelynsills@gmail.com!) 
+
 A more thorough "How-To": 
 
  At https://github.com/katelynsills/libertyautomator, click on the button labeled 'zip' to download the file.  Make sure the file in a location you can easily access (let's just say it's on the desktop), and unzip it.  
