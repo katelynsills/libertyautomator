@@ -8,7 +8,7 @@ A more thorough "How-To":
 
  At https://github.com/katelynsills/libertyautomator, click on the button labeled 'zip' to download the file.  Make sure the file in a location you can easily access (let's just say it's on the desktop), and unzip it.  
  
- Then go to your terminal. (I use Macs, so these instructions will be for those).  You should see a prompt that looks like this:  
+ Then go to your terminal. (I use Macs, so these instructions will be for those).  (To get to your terminal, search 'terminal' in the Spotlight search box at the top right hand corner of your screen.) You should see a prompt that looks like this:  
  
  "Last login: Sun Feb  3 13:43:55 on ttys000 Katelyns-MacBook-Pro:~ katelynsills$"  
  
